@@ -1,0 +1,3 @@
+pip install split-folders tqdm
+
+splitfolders --output DIR_OUTPUT --ratio .5 .2 .3 -- DIR_DATASET
